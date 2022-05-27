@@ -1,0 +1,60 @@
+id: I5D2D4A28
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T19:02:02.460872'
+last_modified: '2022-05-27T19:02:02.460884'
+parser: null
+source_metadata:
+  title: 'MSV 6,03: Ekottara'
+  language: bo
+  base:
+    f9DA4:
+      title: CI_lists of one
+      base_file: f9DA4.txt
+      order: 1
+    f742F:
+      title: CI_lists of two
+      base_file: f742F.txt
+      order: 2
+    f0997:
+      title: CI_lists of three
+      base_file: f0997.txt
+      order: 3
+    fCEEE:
+      title: CI_lists of four
+      base_file: fCEEE.txt
+      order: 4
+    f101D:
+      title: CI_lists of five
+      base_file: f101D.txt
+      order: 5
+    f1899:
+      title: CI_lists of six
+      base_file: f1899.txt
+      order: 6
+    f9B49:
+      title: CI_lists of seven
+      base_file: f9B49.txt
+      order: 7
+    f28C4:
+      title: CI_lists of eight
+      base_file: f28C4.txt
+      order: 8
+    f40C5:
+      title: CI_lists of nine
+      base_file: f40C5.txt
+      order: 9
+    fE643:
+      title: CI_lists of ten
+      base_file: fE643.txt
+      order: 10
+  chapter_to_tile:
+    CI: Ekottara
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
